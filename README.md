@@ -11,15 +11,20 @@ The properties of the rectangle are displayed above the rectangle.
 ## Usage
 
 1. Clone the repository: 
-git clone https://github.com/ironlam/face-detection.git
 
-2. Change to the directory:
+`git clone https://github.com/ironlam/face-detection.git`
+
+2. Move to the directory:
+
 `cd face-detection`
 
 3. Install the required packages:
+
 `pip install -r requirements.txt`
 
+
 4. Run the script:
+
 `python main.py`
 
 5. The output image will be displayed showing the rectangles around the faces.
